@@ -1,0 +1,19 @@
+html{
+  text-align: center;
+  background-color: turquoise;
+  margin-top: 10em;
+}
+form{
+  font-size: 2em;
+}
+input{
+  background-color: lightgray;
+  color: black;
+  border-radius: 1em;
+  font-size: 1.5em;
+  text-align: center;
+}
+button{
+  background-color: lightgray;
+  border-radius: 1em;
+}
